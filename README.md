@@ -1,5 +1,132 @@
 ## Greetings, Visitor! 👋
 
+<div align="center">
+  <h1>🛡️⚔️ Hanju Kim · Aspiring Software Developer (C/C++98) ⚔️🛡️</h1>
+  <i>Alignment: Chaotic Neutral Code • Current Guild: 42 Vienna • Status: Open to Quests</i>
+  <br/><br/>
+  ### 📯 Summon the Adventurer<br/>
+  · Email: hanju.soonsik.kim@gmail.com
+  <!-- · 
+   <a href="https://www.linkedin.com/in/YOUR_LINK">🏰 LinkedIn</a> · -->
+</div>
+
+<hr/>
+
+<pre>
+╔══════════════════════════════ CHARACTER SHEET ══════════════════════════════╗
+║ Name: Hanju Kim                     Class: Beginner Alchemist (C/C++98)     ║
+║ Level: 07                            Alignment: Chaotic Neutral             ║
+║                                                                             ║
+║ HP  [##########]   EP  [##########]   XP  18,450                            ║
+║ STR 14  DEX 12  CON 13  INT 17  WIS 14  CHA 12                              ║
+║ Proficiencies: C · C++ · Python · JavaScript · Java · Git · CI              ║
+╚═════════════════════════════════════════════════════════════════════════════╝
+</pre>
+
+### 🗺️ Quest Log (Featured Projects)
+
+<details>
+  <summary><b>🕹️ Cub3D</b> — Wolfenstein‑style raycaster (C, MiniLibX)</summary>
+  <br/>
+  <b>Repo:</b> <a href="https://github.com/HanzoK/cub3d">Cub3D</a><br/>
+  <b>Rewards:</b> +3500 XP, +2 DEX, +1 INT<br/>
+  <b>Loot:</b> DDA raycasting, shading, texture loading, validated maps, clean shutdown<br/>
+</details>
+
+<details>
+  <summary><b>🐚 Minishell</b> — a tiny bash with pipes & heredocs</summary>
+  <br/>
+  <b>Repo:</b> <a href="https://github.com/ollie-joestar/minishell">Minishell</a><br/>
+  <b>Rewards:</b> +3000 XP, +2 INT, +1 WIS<br/>
+  <b>Loot:</b> parser, signals, execve, env, redirections, heredocs
+</details>
+
+<details>
+  <summary><b>🔀 push_swap</b> — stack sorting sorcery (via QuickSort)</summary>
+  <br/>
+  <b>Repo:</b> <a href="https://github.com/HanzoK/push_swap">YOU/push_swap</a><br/>
+  <b>Rewards:</b> +2200 XP, +2 DEX<br/>
+  <b>Loot:</b> chunking, LIS strategy, operation cost heuristics
+</details>
+
+<details>
+  <summary><b>🍝 Philosophers</b> — thread synchronization banquet</summary>
+  <br/>
+  <b>Repo:</b> <a href="https://github.com/HanzoK/philosophers">YOU/Philosophers</a><br/>
+  <b>Rewards:</b> +1800 XP, +2 WIS<br/>
+  <b>Loot:</b> mutex choreography, starvation avoidance, monitor thread
+</details>
+
+<details>
+  <summary><b>🕹️ so_long</b> · <b>💬 minitalk</b> · <b>🧵 get_next_line</b> · <b>🧪 ft_printf</b> · <b>🧩 Libft</b></summary>
+  <br/>
+  <a href="https://github.com/HanzoK/so_long">so_long</a> •
+  <a href="https://github.com/HanzoK/minitalk">minitalk</a> •
+  <a href="https://github.com/YOU/get_next_line">get_next_line</a> • 
+  <a href="https://github.com/YOU/ft_printf">ft_printf</a> • 
+  <a href="https://github.com/YOU/Libft">Libft</a>
+</details>
+
+---
+
+### ✨ Spellbook (Python)
+- <a href="https://github.com/HanzoK/Python_practice/tree/main/05_hangman">Hangman</a>
+
+<!--### ✨ Spellbook (C)
+- <a href="https://github.com/HanzoK/libft">libft</a>
+- <a href="https://github.com/HanzoK/get_next_line">get_next_line</a>
+- <a href="https://github.com/HanzoK/ft_printf">ft_printf</a>
+- <a href="https://github.com/HanzoK/push_swap">push_swap</a>
+- <a href="https://github.com/HanzoK/minitalk">minitalk</a>
+- <a href="https://github.com/HanzoK/so_long">so_long</a>
+- <a href="https://github.com/ollie-joestar/minishell">minishell</a>
+- <a href="https://github.com/HanzoK/philosophers">philosophers</a>
+- <a href="https://github.com/HanzoK/cub3d">cub3d</a>-->
+
+### ✨ Spellbook (C++98)
+- <a href="https://github.com/HanzoK/cpp_modules/tree/main/cpp_00">CPP_00</a>
+- <a href="https://github.com/HanzoK/cpp_modules/tree/main/cpp_01">CPP_01</a>
+- <a href="https://github.com/HanzoK/cpp_modules/tree/main/cpp_02">CPP_02</a>
+
+### 🎒 Inventory (Skills)
+<p align="center">
+
+  Languages <br/>
+  <img alt="C" src="https://img.shields.io/badge/C-knight%27s%20steel-1f2937?style=for-the-badge&logo=c&logoColor=white">
+  <img alt="C++98" src="https://img.shields.io/badge/C%2B%2B-98%20grimoire-334155?style=for-the-badge&logo=cplusplus&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-arcane%20serpent-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img alt="Java" src="https://img.shields.io/badge/Java-ember%20brew-007396?style=for-the-badge&logo=openjdk&logoColor=white">
+  <br/><br/>
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-burning%20scroll-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-tailor%27s%20weave-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-trickster%27s%20rune-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000">
+
+  <br/>
+
+  Systems / Graphics<br/>
+  <img alt="MiniLibX" src="https://img.shields.io/badge/MiniLibX-mlx%20glyphs-0f766e?style=for-the-badge">
+  <img alt="X11" src="https://img.shields.io/badge/X11-window%20wizardry-1d4ed8?style=for-the-badge">
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-tavern%20OS-0ea5e9?style=for-the-badge&logo=linux&logoColor=white">
+  <img alt="Unix/Bash" src="https://img.shields.io/badge/Bash-shell%20chants-121011?style=for-the-badge&logo=gnubash&logoColor=white">
+
+  <br/>
+
+  Tooling<br/>
+  <img alt="Git" src="https://img.shields.io/badge/Git-guild%20ledger-ef4444?style=for-the-badge&logo=git&logoColor=white">
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-raven%20post-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img alt="Make" src="https://img.shields.io/badge/Make-ritual%20circles-6366f1?style=for-the-badge">
+  <img alt="GDB" src="https://img.shields.io/badge/GDB-breakpoint%20bolts-78350f?style=for-the-badge">
+  <img alt="Valgrind" src="https://img.shields.io/badge/Valgrind-memory%20detect%20evil-7c2d12?style=for-the-badge">
+  <img alt="CI/CD" src="https://img.shields.io/badge/CI%2FCD-wards-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
+
+</p>
+
+<!--### 📯 Summon the Adventurer
+- **Email:** hanju.soonsik.kim@gmail.com
+ **LinkedIn:** linkedin_link to be coming  -->
+
+<hr/>
+
 <!--
 **HanzoK/HanzoK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
