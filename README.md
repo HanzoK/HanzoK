@@ -1,4 +1,4 @@
-## Greetings, Visitor! 👋
+<!--## Greetings, Visitor! 👋
 
 <div align="center">
   <h1>🛡️⚔️ Hanju Kim · Aspiring Software Developer (C/C++98) ⚔️🛡️</h1>
@@ -6,9 +6,12 @@
   <br/><br/>
   ### 📯 Summon the Adventurer<br/>
   · Email: hanju.soonsik.kim@gmail.com
-  <!-- · 
-   <a href="https://www.linkedin.com/in/YOUR_LINK">🏰 LinkedIn</a> · -->
-</div>
+  · <a href="https://www.linkedin.com/in/YOUR_LINK">🏰 LinkedIn</a> · 
+</div> -->
+
+<p align="center">
+  <img src="assets/dnd_scroll_open_once.gif" alt="Hanju Kim — scroll welcome" width="100%">
+</p>
 
 <hr/>
 
