@@ -22,7 +22,7 @@
 ║                                                                             ║
 ║ HP  [##########]   EP  [##########]   XP  18,450                            ║
 ║ STR 14  DEX 12  CON 13  INT 17  WIS 14  CHA 12                              ║
-║ Proficiencies: C · C++ · Python · JavaScript · Java · Git · CI              ║
+║ Proficiencies: C · C++ · Python · JavaScript · Java · Git                   ║
 ╚═════════════════════════════════════════════════════════════════════════════╝
 </pre>
 
@@ -120,7 +120,6 @@
   <img alt="Make" src="https://img.shields.io/badge/Make-ritual%20circles-6366f1?style=for-the-badge">
   <img alt="GDB" src="https://img.shields.io/badge/GDB-breakpoint%20bolts-78350f?style=for-the-badge">
   <img alt="Valgrind" src="https://img.shields.io/badge/Valgrind-memory%20detect%20evil-7c2d12?style=for-the-badge">
-  <img alt="CI/CD" src="https://img.shields.io/badge/CI%2FCD-wards-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
 
 </p>
 
