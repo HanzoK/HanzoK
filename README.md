@@ -1,17 +1,14 @@
-<!--## Greetings, Visitor! 👋
-
-<div align="center">
-  <h1>🛡️⚔️ Hanju Kim · Aspiring Software Developer (C/C++98) ⚔️🛡️</h1>
-  <i>Alignment: Chaotic Neutral Code • Current Guild: 42 Vienna • Status: Open to Quests</i>
-  <br/><br/>
-  ### 📯 Summon the Adventurer<br/>
-  · Email: hanju.soonsik.kim@gmail.com
-  · <a href="https://www.linkedin.com/in/YOUR_LINK">🏰 LinkedIn</a> · 
-</div> -->
+<!--## Greetings, Visitor! 👋-->
 
 <p align="center">
   <img src="assets/dnd_scroll_open_once.gif" alt="Hanju Kim — scroll welcome" width="100%">
 </p>
+
+<div align="center">
+  📯 Summon the Adventurer<br/>
+  · Email: hanju.soonsik.kim@gmail.com <br/>
+  · <a href="www.linkedin.com/in/hanju-kim-621304369">🏰 LinkedIn</a>
+</div>
 
 <hr/>
 
