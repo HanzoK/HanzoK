@@ -7,7 +7,7 @@
 <div align="center">
   📯 Summon the Adventurer<br/>
   · Email: hanju.soonsik.kim@gmail.com <br/>
-  · <a href="www.linkedin.com/in/hanju-kim-621304369">🏰 LinkedIn</a>
+  · <a href="https://www.linkedin.com/in/hanju-kim-621304369">🏰 LinkedIn</a>
 </div>
 
 <hr/>
