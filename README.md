@@ -87,6 +87,13 @@
 - <a href="https://github.com/HanzoK/cpp_modules/tree/main/cpp_00">CPP_00</a>
 - <a href="https://github.com/HanzoK/cpp_modules/tree/main/cpp_01">CPP_01</a>
 - <a href="https://github.com/HanzoK/cpp_modules/tree/main/cpp_02">CPP_02</a>
+- <a href="https://github.com/HanzoK/cpp_modules/tree/main/cpp_03">CPP_03</a>
+- <a href="https://github.com/HanzoK/cpp_modules/tree/main/cpp_04">CPP_04</a>
+- <a href="https://github.com/HanzoK/cpp_modules/tree/main/cpp_05">CPP_05</a>
+- <a href="https://github.com/HanzoK/cpp_modules/tree/main/cpp_06">CPP_06</a>
+- <a href="https://github.com/HanzoK/cpp_modules/tree/main/cpp_07">CPP_07</a>
+- <a href="https://github.com/HanzoK/cpp_modules/tree/main/cpp_08">CPP_08</a>
+- <a href="https://github.com/HanzoK/cpp_modules/tree/main/cpp_09">CPP_09</a>
 
 ### 🎒 Inventory (Skills)
 <p align="center">
