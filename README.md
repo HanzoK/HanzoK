@@ -71,6 +71,9 @@
 
 ### ✨ Spellbook (Python)
 - <a href="https://github.com/HanzoK/Python_practice/tree/main/05_hangman">Hangman</a>
+- <a href="https://github.com/HanzoK/Python_practice/tree/main/intermediate_plus/00_smtplib_and_datetime">Automated Birthday Wisher</a>
+- <a href="https://github.com/HanzoK/Python_practice/tree/main/intermediate_plus/02_Trivia_API/Quizzler">Quizzler App with REST API</a>
+- <a href="https://github.com/HanzoK/Python_practice/tree/main/intermediate_plus/04_stock_trader_news_app">Stock Trader news app</a>
 
 <!--### ✨ Spellbook (C)
 - <a href="https://github.com/HanzoK/libft">libft</a>
