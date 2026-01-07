@@ -23,7 +23,7 @@
 ╚═════════════════════════════════════════════════════════════════════════════╝
 </pre>
 
-### 🗺️ Quest Log (Featured Projects)
+### 🗺️ Quest Log (42 Projects)
 
 <details>
   <summary><b>🕹️ Cub3D</b> — Wolfenstein‑style raycaster (C, MiniLibX)</summary>
