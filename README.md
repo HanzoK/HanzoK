@@ -19,7 +19,7 @@
 ║                                                                             ║
 ║ HP  [##########]   EP  [##########]   XP  18,450                            ║
 ║ STR 14  DEX 12  CON 13  INT 17  WIS 14  CHA 12                              ║
-║ Proficiencies: C · C++ · Python · JavaScript · Java · Git                   ║
+║ Proficiencies: C · C++ · Python · Git                                       ║
 ╚═════════════════════════════════════════════════════════════════════════════╝
 </pre>
 
@@ -102,7 +102,6 @@
   <img alt="C" src="https://img.shields.io/badge/C-knight%27s%20steel-1f2937?style=for-the-badge&logo=c&logoColor=white">
   <img alt="C++98" src="https://img.shields.io/badge/C%2B%2B-98%20grimoire-334155?style=for-the-badge&logo=cplusplus&logoColor=white">
   <img alt="Python" src="https://img.shields.io/badge/Python-arcane%20serpent-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img alt="Java" src="https://img.shields.io/badge/Java-ember%20brew-007396?style=for-the-badge&logo=openjdk&logoColor=white">
   <br/><br/>
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-burning%20scroll-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-tailor%27s%20weave-1572B6?style=for-the-badge&logo=css3&logoColor=white">
