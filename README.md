@@ -89,6 +89,8 @@
 - <a href="https://github.com/HanzoK/philosophers">philosophers</a>
 - <a href="https://github.com/HanzoK/cub3d">cub3d</a>-->
 
+---
+
 ### ✨ Spellbook (C++98)
 - <a href="https://github.com/HanzoK/cpp_modules/tree/main/cpp_00">CPP_00</a>
 - <a href="https://github.com/HanzoK/cpp_modules/tree/main/cpp_01">CPP_01</a>
@@ -100,6 +102,8 @@
 - <a href="https://github.com/HanzoK/cpp_modules/tree/main/cpp_07">CPP_07</a>
 - <a href="https://github.com/HanzoK/cpp_modules/tree/main/cpp_08">CPP_08</a>
 - <a href="https://github.com/HanzoK/cpp_modules/tree/main/cpp_09">CPP_09</a>
+
+---
 
 ### 🎒 Inventory (Skills)
 <p align="center">
