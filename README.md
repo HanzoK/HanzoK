@@ -44,7 +44,7 @@
 <details>
   <summary><b>🔀 push_swap</b> — stack sorting sorcery (via QuickSort)</summary>
   <br/>
-  <b>Repo:</b> <a href="https://github.com/HanzoK/push_swap">YOU/push_swap</a><br/>
+  <b>Repo:</b> <a href="https://github.com/HanzoK/push_swap">push_swap</a><br/>
   <b>Rewards:</b> +2200 XP, +2 DEX<br/>
   <b>Loot:</b> chunking, LIS strategy, operation cost heuristics
 </details>
@@ -52,7 +52,7 @@
 <details>
   <summary><b>🍝 Philosophers</b> — thread synchronization banquet</summary>
   <br/>
-  <b>Repo:</b> <a href="https://github.com/HanzoK/philosophers">YOU/Philosophers</a><br/>
+  <b>Repo:</b> <a href="https://github.com/HanzoK/philosophers">Philosophers</a><br/>
   <b>Rewards:</b> +1800 XP, +2 WIS<br/>
   <b>Loot:</b> mutex choreography, starvation avoidance, monitor thread
 </details>
@@ -62,9 +62,9 @@
   <br/>
   <a href="https://github.com/HanzoK/so_long">so_long</a> •
   <a href="https://github.com/HanzoK/minitalk">minitalk</a> •
-  <a href="https://github.com/YOU/get_next_line">get_next_line</a> • 
-  <a href="https://github.com/YOU/ft_printf">ft_printf</a> • 
-  <a href="https://github.com/YOU/Libft">Libft</a>
+  <a href="https://github.com/HanzoK/get_next_line">get_next_line</a> • 
+  <a href="https://github.com/HanzoK/ft_printf">ft_printf</a> • 
+  <a href="https://github.com/HanzoK/Libft">Libft</a>
 </details>
 
 ---
