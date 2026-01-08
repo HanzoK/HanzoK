@@ -69,7 +69,7 @@
 
 ---
 
-### ✨ Spellbook (Python)
+### ✨ Spellbook (<a href="https://github.com/HanzoK/Python_projects">Python</a>)
 - <a href="https://github.com/HanzoK/Python_practice/tree/main/05_hangman">Hangman</a>
 - <a href="https://github.com/HanzoK/Python_practice/tree/main/intermediate/06_pong_game">Pong game</a>
 - <a href="https://github.com/HanzoK/Python_practice/tree/main/intermediate/08_CSV_files_and_pandas">US States guessing game</a>
@@ -92,7 +92,7 @@
 
 ---
 
-### ✨ Spellbook (C++98)
+### ✨ Spellbook (<a href="https://github.com/HanzoK/cpp_modules">C++98</a>)
 - <a href="https://github.com/HanzoK/cpp_modules/tree/main/cpp_00">CPP_00</a>
 - <a href="https://github.com/HanzoK/cpp_modules/tree/main/cpp_01">CPP_01</a>
 - <a href="https://github.com/HanzoK/cpp_modules/tree/main/cpp_02">CPP_02</a>
