@@ -72,7 +72,7 @@
 ### ✨ Spellbook (<a href="https://github.com/HanzoK/Python_projects">Python</a>)
 - <a href="https://github.com/HanzoK/Python_practice/tree/main/05_hangman">Hangman</a>
 - <a href="https://github.com/HanzoK/Python_practice/tree/main/intermediate/06_pong_game">Pong game</a>
-- <a href="https://github.com/HanzoK/Python_practice/tree/main/intermediate/08_CSV_files_and_pandas">US States guessing game</a>
+- <a href="https://github.com/HanzoK/Python_projects/tree/main/intermediate/08_CSV_files_and_pandas/US_states_game">US States guessing game</a>
 - <a href="https://github.com/HanzoK/Python_practice/tree/main/intermediate/14_flash_card_capstone_project">Flash card Learning game</a>
 - <a href="https://github.com/HanzoK/Python_practice/tree/main/intermediate_plus/00_smtplib_and_datetime">Automated Birthday Wisher</a>
 - <a href="https://github.com/HanzoK/Python_practice/tree/main/intermediate_plus/02_Trivia_API/Quizzler">Quizzler App with REST API</a>
