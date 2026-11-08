@@ -8,7 +8,7 @@
 
 <pre>
 ╔══════════════════════════════ CHARACTER SHEET ══════════════════════════════╗
-║ Name: Hanju Kim                     Class: Beginner Alchemist (C/C++98)     ║
+║ Name: HanzoKay                       Class: Beginner Alchemist (C/C++98)    ║
 ║ Level: 07                            Alignment: Chaotic Neutral             ║
 ║                                                                             ║
 ║ HP  [##########]   EP  [##########]   XP  18,450                            ║
