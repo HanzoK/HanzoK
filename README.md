@@ -4,12 +4,6 @@
   <img src="assets/dnd_scroll_open_once.gif" alt="Hanju Kim — scroll welcome" width="100%">
 </p>
 
-<div align="center">
-  📯 Summon the Adventurer<br/>
-  · Email: hanju.soonsik.kim@gmail.com <br/>
-  · <a href="https://www.linkedin.com/in/hanju-kim-621304369">🏰 LinkedIn</a>
-</div>
-
 <hr/>
 
 <pre>
