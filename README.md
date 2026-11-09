@@ -1,9 +1,5 @@
 <!--## Greetings, Visitor! 👋-->
 
-<p align="center">
-  <img src="assets/dnd_scroll_open_once.gif" alt="Hanju Kim — scroll welcome" width="100%">
-</p>
-
 <hr/>
 
 <pre>
